@@ -10,9 +10,9 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- Threads version: **443.0.0.48.82**
-- Edits version: **443.0.0.48.82**
-- Instants version: **440.0.0.40.108**
+- Threads version: **445.0.0.46.83**
+- Edits version: **445.0.0.46.83**
+- Instants version: **445.0.0.46.107**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
@@ -21,13 +21,13 @@
 
 ## 🎥 Evidence
 - **Threads:**
-![Threads Android](assets/v443.jpg)
+![Threads Android](assets/v445.jpg)
 
 - **Edits:**
-![Edits Android](assets/v443_edits.jpg)
+![Edits Android](assets/v445_edits.jpg)
 
 - **Instants, an Instagram app:**
-![Instants, an Instagram app](assets/v440_instants.jpg)
+![Instants, an Instagram app](assets/v445_instants.jpg)
 
 ---
 
@@ -39,8 +39,8 @@
 5. [Messenger iOS](https://github.com/shajon-dev/iOS-Messenger-SSL-Pinning-Bypass)
 6. [Instagram Android](https://github.com/shajon-dev/Instagram-SSL-Pinning-Bypass)
 7. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
-8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
-9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass)
+9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suite-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
@@ -70,7 +70,7 @@
     <tr>
       <td rowspan="3" align="center"><b>Threads</b></td>
       <td rowspan="3" align="center"><code>com.instagram.barcelona</code></td>
-      <td align="center">443.0.0.48.82</td>
+      <td align="center">445.0.0.46.83</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
@@ -90,7 +90,7 @@
     <tr>
       <td rowspan="3" align="center"><b>Edits</b></td>
       <td rowspan="3" align="center"><code>com.instagram.basel</code></td>
-      <td align="center">443.0.0.48.82</td>
+      <td align="center">445.0.0.46.83</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
@@ -110,7 +110,7 @@
     <tr>
       <td rowspan="2" align="center"><b>Instants</b></td>
       <td rowspan="2" align="center"><code>com.instagram.moonshot</code></td>
-      <td align="center">440.0.0.40.108</td>
+      <td align="center">445.0.0.46.107</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
